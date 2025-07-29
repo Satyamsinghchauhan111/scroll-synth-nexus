@@ -61,6 +61,19 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Futuristic theme colors
+				neon: {
+					cyan: 'hsl(var(--neon-cyan))',
+					purple: 'hsl(var(--neon-purple))',
+					pink: 'hsl(var(--neon-pink))',
+					green: 'hsl(var(--neon-green))'
+				},
+				electric: {
+					blue: 'hsl(var(--electric-blue))'
+				},
+				cyber: {
+					orange: 'hsl(var(--cyber-orange))'
 				}
 			},
 			borderRadius: {
